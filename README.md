@@ -11,7 +11,13 @@ This repository contains Jupyter notebooks, trained models, and visual results f
 - [Usage](#usage)  
 - [Results](#results)  
 - [License](#license)  
+---
 
+## Overview  
+This project uses YOLOv8 (You Only Look Once) to detect custom objects in images and real-world scenarios. The repository includes:  
+- Training workflows using YOLOv8.  
+- Real-world testing of trained models.  
+- Accuracy graphs and test results for performance analysis.
 
 ---
 
