@@ -7,8 +7,6 @@ This repository contains Jupyter notebooks, trained models, and visual results f
 ## Table of Contents
 - [Overview](#overview)  
 - [Requirements](#requirements)  
-- [Files in the Repository](#files-in-the-repository)  
-- [Usage](#usage)  
 - [Results](#results)  
 - [License](#license)  
 ---
